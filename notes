@@ -1,0 +1,21 @@
+all the commands used to setup this project
+
+npm create vite@latest socilamedia
+
+cd socialmediaapp
+npm install
+npm run dev
+
+We install material UI
+
+MUI react
+
+npm install @mui/material @emotion/react @emotion/styled
+
+Roboto font
+npm install @fontsource/roboto
+
+Icons->we install material Icons
+npm install @mui/icons-material
+
+https://react.dev/reference/react/Children
