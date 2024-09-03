@@ -19,3 +19,22 @@ Icons->we install material Icons
 npm install @mui/icons-material
 
 https://react.dev/reference/react/Children
+
+---
+
+we are pushing to github
+
+E:\Desktop\ALgocamp\socialmediaapp>git init
+git init
+git add .
+git commit -m "first commit"
+
+git remote add origin https://github.com/sameer1098alam/socialmediaapp.git
+
+git push origin master
+
+To https://github.com/sameer1098alam/socialmediaapp.git
+
+- [new branch] master -> master
+
+---
